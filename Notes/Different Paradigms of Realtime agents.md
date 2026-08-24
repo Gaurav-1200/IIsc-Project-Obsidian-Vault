@@ -1,6 +1,6 @@
 [[Talker Reasoner Paradigms]] : Talker optimized for speed, reason for deliberative thinking
 
-[[[Duall Brain & Mind Paced Speaking]]  The formulation LLM brain streams continuous thoughts to the articulation brain
+[[Duall Brain & Mind Paced Speaking]]  The formulation LLM brain streams continuous thoughts to the articulation brain
 
 [[Conversation Infill]]  The talker actively drives engagement during computation delay.
 

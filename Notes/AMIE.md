@@ -1,6 +1,5 @@
 [*Towards Expert-level Medical AI for Real-time Video Consultations](https://arxiv.org/pdf/2608.09861)
-
-[[AMIE_Video2608.09861v1.pdf]]
+[[AMIE_2608.09861.pdf]]
 - Gemini based multi agent  system (Gemini 3.1 Pro & Gemini 3 Flash)
 - Three major agents
 	- Talker 
