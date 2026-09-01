@@ -7,10 +7,10 @@
 
 Datasets used:  
 Benchmarks used : [[Spoken MQA]], [[Meta-audio]], [[KK-Audio]], [[SATA-Bench]] 
-Model : [[Qwen2.5-Omni-3B]], [[[CosyVoice2]]]
+Model : [[Qwen2.5-Omni-3B]], [[CosyVoice2]]
 ### Key Results
 - +13% on Spoken MQA (Spoken Maths QA)
-- 
+- Preserves 96.5% of analytical capability without latency cost
 
 #### Challenges for thinking before speaking models
 - Unpredictable reasoning length
@@ -57,4 +57,4 @@ Model : [[Qwen2.5-Omni-3B]], [[[CosyVoice2]]]
 2. Vanilla [[Qwen2.5-Omni-3B]]  (Direct , No thinking)
 3.  Fast CoT
 4. InterRS (this paper)
-![[Pasted image 20260901070200.png]]
+![[ThinkingwhileSpeakingResults.png]]
