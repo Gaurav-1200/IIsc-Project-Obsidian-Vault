@@ -10,7 +10,7 @@
 
 | Target Date | Milestone / Deliverable | Status | Owner / Action |
 | :--- | :--- | :---: | :--- |
-| **4th Sept 2026** | **Submit Concrete Project Proposal & Sign-off** | 🟡 In Progress | Gaurav / Mentor Sign-off |
+| 1st Sept 2026** | **Submit Concrete Project Proposal & Sign-off** |✅ Done | Gaurav / Mentor Sign-off |
 ---
 
 ##  Weekly Progress Reports

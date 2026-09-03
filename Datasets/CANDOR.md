@@ -1,4 +1,4 @@
-[The CANDOR corpus: Insights from a large multimodal dataset of naturalistic conversation | Science Advances](https://www.science.org/doi/10.1126/sciadv.adf3197)
+[[The CANDOR corpus- Insights from a large multimodal dataset of naturalistic conv_3961.pdf]]
 
 1. Requested for Access from BetterInc
 2. Transcript Access , No raw files
