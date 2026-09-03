@@ -6,17 +6,17 @@
 
 ---
 
-## 🎯 Key Milestones & Deliverables
+##  Key Milestones & Deliverables
 
 | Target Date | Milestone / Deliverable | Status | Owner / Action |
 | :--- | :--- | :---: | :--- |
 | **4th Sept 2026** | **Submit Concrete Project Proposal & Sign-off** | 🟡 In Progress | Gaurav / Mentor Sign-off |
 ---
 
-## 📊 Weekly Progress Reports
+##  Weekly Progress Reports
 
 <details open>
-<summary><b>🗓️ Week 02: Thinking While Speaking & Multimodal Datasets (Aug 24 - Sept 1)</b></summary>
+<summary><b> Week 02: Thinking While Speaking & Multimodal Datasets (Aug 24 - Sept 1)</b></summary>
 
 * **Full Detailed Report:** [[Week2__Report]]
 * **Summary:** 
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-<summary><b>🗓️ Week 01: Vault Setup, Tooling Evaluation & Literature Review (Ending Aug 24)</b></summary>
+<summary><b> Week 01: Vault Setup, Tooling Evaluation & Literature Review (Ending Aug 24)</b></summary>
 
 * **Full Detailed Report:** [[Week_01_Report]]
 * **Executive Summary:** 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📂 Vault Directory
+##  Vault Directory
 * **Research Notes:** [`Notes/`](./Notes/)
 * **Literature & Papers:** [`Sources/`](./Sources/)
 * **Formal Reports:** [`Reports/`](./Reports/)
