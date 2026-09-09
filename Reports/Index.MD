@@ -42,9 +42,9 @@
 ---
 
 ##  Vault Directory
-* **Research Notes:** [`Notes/`](./Notes/)
-* **Literature & Papers:** [`Sources/`](./Sources/)
-* **Formal Reports:** [`Reports/`](./Reports/)
-* **Datasets:** [`Datasets/`](./Datasets/)
-* **Models:** [`Models/`](./Models/)
-* **Standard Techniques:** [`Standard Techniques/`](./Standard Techniques/)
+* **Research Notes:** (./Notes/)
+* **Literature & Papers:** (./Sources/)
+* **Formal Reports:** (./Reports/)
+* **Datasets:** (./Datasets/)
+* **Models:** (./Models/)
+* **Standard Techniques:** (./Standard Techniques/)
