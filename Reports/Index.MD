@@ -10,12 +10,24 @@
 
 | Target Date | Milestone / Deliverable | Status | Owner / Action |
 | :--- | :--- | :---: | :--- |
-| 1st Sept 2026** | **Submit Concrete Project Proposal & Sign-off** |✅ Done | Gaurav / Mentor Sign-off |
+| 1st Sept 2026 | **Submit Concrete Project Proposal & Sign-off** |✅ Done | Gaurav / Mentor Sign-off |
 ---
 
 ##  Weekly Progress Reports
 
 <details open>
+<summary><b> Week 03: Conversation Infill Architecture & CANDOR Data Audit (Sept 1 - Sept 8)</b></summary>
+
+* **Full Detailed Report:** [[Week3__Report]]
+* **Summary:** 
+    - Analyzed the **ConvFill** paper under Paradigm 3 (Conversation Infill), combining  on-device models (SmolLM2-360M) with cloud backends (Gemini 2.5 Pro).
+    - Evaluated dual-thread streaming mechanics, periodic `<|Sil|>` silence token insertion, 4–67x TTFT speedup (0.17s latency), and QA accuracy / turn-level entailment trade-offs.
+    - Confirmed data access request accepted for the **CANDOR** corpus; downloaded and completed comprehensive dataset audit across 850+ hours of speech.
+    - Quantified natural overlap mechanics (88.5% of 10+ word overlaps are terminal at turn end), rarity of deep barge-ins (only 1,089 in 850h), and backchannel distribution (452.5k instances, ~1,000/hr).
+
+</details>
+
+<details>
 <summary><b> Week 02: Thinking While Speaking & Multimodal Datasets (Aug 24 - Sept 1)</b></summary>
 
 * **Full Detailed Report:** [[Week2__Report]]
@@ -31,7 +43,7 @@
 <details>
 <summary><b> Week 01: Vault Setup, Tooling Evaluation & Literature Review (Ending Aug 24)</b></summary>
 
-* **Full Detailed Report:** [[Week_01_Report]]
+* **Full Detailed Report:** [[Week1__Report]]
 * **Executive Summary:** 
     - Established a local-first, version-controlled research workflow using Obsidian and Git.
     - Explored tooling trade-offs (Obsidian vs. Zotero/Notion).
