@@ -16,6 +16,18 @@
 ##  Weekly Progress Reports
 
 <details open>
+<summary><b> Week 04: MiniCPM-o 4.5 Architecture & Full Duplex Bench v1/v1.5 Audit (Sept 8 - Sept 22)</b></summary>
+
+* **Full Detailed Report:** [[Week4__Report]]
+* **Summary:** 
+    - Looked into **MiniCPM-o 4.5**, which has 3 time-aligned streams (env-visual, env-audio, out-stream), autonomous `[listen]` token generation, audio/vision compression ratios (Whisper 50$\rightarrow$10 tokens/s, SigLIP-2 1024$\rightarrow$64 tokens).
+    - Came across different latency optimizations like direct LLM internal hidden-state speech decoding and Time-Aligned Interleaving (TAIL Mode A/B/C) with bounded look-ahead.
+    - Audited **Full Duplex Bench v1** (727 scenarios) and **v1.5** (499 scenarios), highlighting v1.5 improvements like paired `clean_input.wav` ablation baselines and standardized 16 kHz PCM16 audio.
+    - Identified benchmark discrepancies against natural speech (e.g., static fixed-offset injections, 3.42s median interruption length vs 0.22s in CANDOR, and lack of semantic correction/retraction tests).
+
+</details>
+
+<details>
 <summary><b> Week 03: Conversation Infill Architecture & CANDOR Data Audit (Sept 1 - Sept 8)</b></summary>
 
 * **Full Detailed Report:** [[Week3__Report]]
