@@ -11,11 +11,25 @@
 | Target Date | Milestone / Deliverable | Status | Owner / Action |
 | :--- | :--- | :---: | :--- |
 | 1st Sept 2026 | **Submit Concrete Project Proposal & Sign-off** |✅ Done | Gaurav / Mentor Sign-off |
+| 15th Oct 2026 | **Literature Consolidation & 4-Phase Architecture Formulation** |✅ Done | Gaurav / Mentor Review |
 ---
 
 ##  Weekly Progress Reports
 
 <details open>
+<summary><b> Week 06: Literature Consolidation & Dual-System Real-Time Agent Architecture (Sept 22 - Oct 15)</b></summary>
+
+* **Full Detailed Report:** [[Week6__Report]]
+* **Summary:** 
+    - Consolidated the literature log into **4 structured architectural phases** to address the voice vs. deep reasoning trade-off in multi-step troubleshooting.
+    - **Phase 1 (Baselines):** Evaluated monolithic fast conversational models (Gemini Live, OpenAI Realtime, MiniCPM-o 4.5, Moshi, UltraVox) and slow deliberative engines (LangGraph + ReAct, LlamaIndex Workflows, LiveKit/Pipecat, Cascaded controls).
+    - **Phase 2 (Core Handoff Protocol):** Formulated bidirectional state synchronization, user barge-in cancellation, and context drift handling synthesizing lessons from AMIE, DPT-Agent, Supervisor delegation, and ConvFill streaming interfaces.
+    - **Phase 3 (Dynamic Orchestration):** Explored ultra-low-latency routing intelligence, comparing Non-Autoregressive Intent Heads (Jev/Laya at ~33ms $O(1)$ latency), RouteLLM with disruption penalty terms, Learning to Defer, and latent predictive entropy.
+    - **Phase 4 (Latency Optimization):** Outlined delay-hiding techniques, including speculative sub-graph pre-execution, intelligent conversational infill, and dynamic latency prediction.
+
+</details>
+
+<details>
 <summary><b> Week 04: MiniCPM-o 4.5 Architecture & Full Duplex Bench v1/v1.5 Audit (Sept 8 - Sept 22)</b></summary>
 
 * **Full Detailed Report:** [[Week4__Report]]
