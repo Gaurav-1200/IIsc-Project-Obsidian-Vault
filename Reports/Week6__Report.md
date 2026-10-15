@@ -15,11 +15,11 @@ In multi-step troubleshooting, conversational agents face an inherent **voice vs
 * **Monolithic Voice Models** (e.g., Gemini Live, MiniCPM-o 4.5) offer fluid, low-latency (<300ms) conversational turn-taking, but struggle with multi-step planning and degrade with large tool suites.
 * **Deliberative Reasoning Systems** (e.g., LangGraph ReAct) deliver high accuracy on complex workflows, but incur 2–10s latencies and lack native handling for mid-turn interruptions (barge-ins).
 
-To bridge this gap, I consolidated the literature log into **four structured phases**:
+To bridge this gap, I consolidated the literature log into **four structured phases**: All are listed in Notes/
 
 ---
 
-## 2. Phase 1: Baseline Architecture — Fast and Slow Layers
+## 2. Phase 1: Baseline Architecture  Fast and Slow Layers 
 
 To isolate architectural gains, candidate front-ends and back-ends were categorized to establish experimental controls:
 
